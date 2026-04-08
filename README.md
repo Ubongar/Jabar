@@ -4,7 +4,7 @@ Student Management System built with Spring Boot.
 
 ## Prerequisites
 
-- Java 25
+- Java 21
 - Maven 3.9+
 - MySQL 8+
 
@@ -21,4 +21,3 @@ Set these in your shell before running:
 ```powershell
 mvn clean spring-boot:run
 ```
-"# Jabar" 
