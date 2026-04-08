@@ -15,5 +15,6 @@
         "activityBar.background": "#800080",
         "activityBar.foreground": "#FFFFFF"
     },
-    "java.compile.nullAnalysis.mode": "automatic"
+    "java.compile.nullAnalysis.mode": "automatic",
+    "java.configuration.updateBuildConfiguration": "interactive"
 }
