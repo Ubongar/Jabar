@@ -1,0 +1,23 @@
+# Maven/Java build output
+target/
+*.class
+*.jar
+*.war
+*.ear
+
+# IDE/editor metadata
+.idea/
+.vscode/
+*.iml
+
+# Environment files and local secrets
+.env
+.env.*
+!.env.example
+
+# Logs
+*.log
+
+# OS-generated files
+.DS_Store
+Thumbs.db
