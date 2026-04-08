@@ -1,0 +1,29 @@
+### Should fail - age too low
+POST http://localhost:8081/students
+Content-Type: application/json
+
+{
+  "name": "Young Kid",
+  "email": "kid@example.com",
+  "age": 10
+}
+
+### Should fail - duplicate email
+POST http://localhost:8081/students
+Content-Type: application/json
+
+{
+  "name": "Jane Doe",
+  "email": "john@example.com",
+  "age": 22
+}
+
+### Should fail - missing name
+POST http://localhost:8081/students
+Content-Type: application/json
+
+{
+  "name": "",
+  "email": "test@example.com",
+  "age": 18
+}
