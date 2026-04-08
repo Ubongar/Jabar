@@ -21,3 +21,18 @@ Set these in your shell before running:
 ```powershell
 mvn clean spring-boot:run
 ```
+
+## Actuator Endpoint Exposure
+
+- Default and production profile expose only health and info.
+- Development profile exposes additional diagnostics and explicitly excludes shutdown.
+
+Run with a profile:
+
+```powershell
+mvn spring-boot:run -Dspring-boot.run.profiles=dev
+```
+
+```powershell
+mvn spring-boot:run -Dspring-boot.run.profiles=prod
+```
