@@ -1,0 +1,10 @@
+com\ubongar\studentmanagement\model\Student$StudentBuilder.class
+com\ubongar\studentmanagement\exception\GlobalExceptionHandler.class
+com\ubongar\studentmanagement\model\Student.class
+com\ubongar\studentmanagement\repository\StudentRepository.class
+com\ubongar\studentmanagement\exception\ResourceNotFoundException.class
+com\ubongar\studentmanagement\exception\GlobalExceptionHandler$ErrorResponse.class
+com\ubongar\studentmanagement\controller\StudentController.class
+com\ubongar\studentmanagement\service\StudentService.class
+com\ubongar\studentmanagement\exception\DuplicateEmailException.class
+com\ubongar\studentmanagement\StudentManagementApplication.class
