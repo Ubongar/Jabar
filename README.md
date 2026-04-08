@@ -24,8 +24,8 @@ mvn clean spring-boot:run
 
 ## Actuator Endpoint Exposure
 
-- Default and production profile expose only health and info.
-- Development profile exposes additional diagnostics and explicitly excludes shutdown.
+- Default and production profiles expose only health and info.
+- Development profile keeps the secure baseline and adds only metrics.
 
 Run with a profile:
 
