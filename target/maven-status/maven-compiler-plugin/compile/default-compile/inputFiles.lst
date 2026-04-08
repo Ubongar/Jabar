@@ -1,8 +1,0 @@
-C:\Users\Michael\Jabar\src\main\java\com\ubongar\studentmanagement\controller\StudentController.java
-C:\Users\Michael\Jabar\src\main\java\com\ubongar\studentmanagement\exception\DuplicateEmailException.java
-C:\Users\Michael\Jabar\src\main\java\com\ubongar\studentmanagement\exception\GlobalExceptionHandler.java
-C:\Users\Michael\Jabar\src\main\java\com\ubongar\studentmanagement\exception\ResourceNotFoundException.java
-C:\Users\Michael\Jabar\src\main\java\com\ubongar\studentmanagement\model\Student.java
-C:\Users\Michael\Jabar\src\main\java\com\ubongar\studentmanagement\repository\StudentRepository.java
-C:\Users\Michael\Jabar\src\main\java\com\ubongar\studentmanagement\service\StudentService.java
-C:\Users\Michael\Jabar\src\main\java\com\ubongar\studentmanagement\StudentManagementApplication.java
